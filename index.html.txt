@@ -1,6 +1,6 @@
 <html>
 	<body>
 		<h1>Minha Página</h1>
-		<h1> All right"<\h1>
+		<h1>Good Good"<\h1>
 	</body>
 <\html>
